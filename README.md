@@ -16,3 +16,6 @@ STEP 01 - containerization
 [node1 STEP01-IMAGE_BUILD]$ docker ps -a | grep test-ic-webapp
 99cfac5d59e6   ic-webapp:1.0    "python app.py"  13 seconds ago   Up 10 seconds   0.0.0.0:8084->8080/tcp, :::8084->8080/tcp   test-ic-webapp
 ```
+
+STEP 02 - Applications deployment on a Kubernetes cluster
+---------------------------------------------------------
