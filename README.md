@@ -1,8 +1,10 @@
 # Projet-Fil-Rouge
 Projet de mise en place d'un pipeline CI-CD dans le cadre de la formation DevOps [eazytraining.fr]
 
+--------------------------
 STEP 01 - containerization
 --------------------------
+
 ```bash
 [node1 STEP01-IMAGE_BUILD]$ docker build -t ic-webapp:1.0 .
 ```
@@ -27,6 +29,6 @@ http://<host ip address>:8084
 
 
 
-
+---------------------------------------------------------
 STEP 02 - Applications deployment on a Kubernetes cluster
 ---------------------------------------------------------
