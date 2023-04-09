@@ -17,5 +17,16 @@ STEP 01 - containerization
 99cfac5d59e6   ic-webapp:1.0    "python app.py"  13 seconds ago   Up 10 seconds   0.0.0.0:8084->8080/tcp, :::8084->8080/tcp   test-ic-webapp
 ```
 
+We have to check if the application works properly by entring the following address in the browser address bar :
+
+```
+http://<host ip address>:8084
+```
+
+![image](https://user-images.githubusercontent.com/72947514/230758929-43cb1adb-eccc-446d-a973-592d1109a387.png)
+
+
+
+
 STEP 02 - Applications deployment on a Kubernetes cluster
 ---------------------------------------------------------
