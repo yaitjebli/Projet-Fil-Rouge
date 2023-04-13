@@ -57,6 +57,10 @@ http://<host ip address>:8069
 ```
 ![image](https://user-images.githubusercontent.com/72947514/231658596-7fb9e2a8-1ad1-496b-b321-b1cf9e4a3d27.png)
 
+Enter required information to create the database and connect to the database :
+
+![image](https://user-images.githubusercontent.com/72947514/231659621-5db74db4-8be6-4329-83c7-32c8a736de2e.png)
+
 
 
 
