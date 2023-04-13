@@ -32,3 +32,29 @@ http://<host ip address>:8084
 ---------------------------------------------------------
 STEP 02 - Applications deployment on a Kubernetes cluster
 ---------------------------------------------------------
+
+```bash
+docker-compose -f docker-compose-all-stack.yml up -d
+```
+
+```bash
+[node1 STEP02-DEPLOYMENT]$ docker ps -a
+CONTAINER ID   IMAGE                        COMMAND                  CREATED              STATUS                PORTS                                                      NAMES
+cd62cad032a6   odoo:13.0                    "/entrypoint.sh odoo"    About a minute ago   Up 43 seconds         0.0.0.0:8069->8069/tcp, :::8069->8069/tcp, 8071-8072/tcp   odoo
+7c6bb72da0a7   yaitjebli/ic-webapp:v1.0     "python app.py"          About a minute ago   Up About a minute     0.0.0.0:8080->8080/tcp, :::8080->8080/tcp                  ic-webapp
+d1005195d987   postgres:10                  "docker-entrypoint.s…"   About a minute ago   Up About a minute     0.0.0.0:5432->5432/tcp, :::5432->5432/tcp                  postgres
+9b13ef89fb78   dpage/pgadmin4               "/entrypoint.sh"         About a minute ago   Up About a minute     443/tcp, 0.0.0.0:5050->80/tcp, :::5050->80/tcp             pgadmin
+```
+Test your access to your webapp :
+```bash
+http://<host ip address>:8080
+```
+
+
+
+
+
+
+
+
+
