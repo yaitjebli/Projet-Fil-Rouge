@@ -49,6 +49,13 @@ Test your access to your webapp :
 ```bash
 http://<host ip address>:8080
 ```
+![image](https://user-images.githubusercontent.com/72947514/231658283-7701e5ea-5601-4b95-ad7a-e025473c5407.png)
+
+Test your access to Odoo app :
+```bash
+http://<host ip address>:8069
+```
+![image](https://user-images.githubusercontent.com/72947514/231658596-7fb9e2a8-1ad1-496b-b321-b1cf9e4a3d27.png)
 
 
 
