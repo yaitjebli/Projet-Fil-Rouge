@@ -62,6 +62,8 @@ Enter required information to create the database and connect to the database :
 ![image](https://user-images.githubusercontent.com/72947514/231659621-5db74db4-8be6-4329-83c7-32c8a736de2e.png)
 
 
+Test connexion to pgadmin home page :
+![image](https://user-images.githubusercontent.com/72947514/231946123-77b3a689-30dc-4256-a24f-9ceb4ca3cdee.png)
 
 
 
