@@ -70,6 +70,8 @@ and enter with credentendials given in the docker-compose file (docker-compose-a
 
 ![image](https://user-images.githubusercontent.com/72947514/231947598-b4d4a513-0a60-467f-abc0-4c50b1383bfa.png)
 
+click on "add a server" and enter the name of the database. Then click on the "Connection" tab to enter the login and password defined on the "docker-compose-all-stack.yml" file to connect to the database (postgres). Click on "save" to connect to the database :
+
 ![image](https://user-images.githubusercontent.com/72947514/231947380-f8c4c757-f550-45df-8adb-d3a787bf338d.png)
 
 
