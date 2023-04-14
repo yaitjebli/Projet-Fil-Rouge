@@ -68,7 +68,7 @@ Test connexion to pgadmin home page :
 
 and enter with credentendials given in the docker-compose file (docker-compose-all-stack.yml) :
 
-![image](https://user-images.githubusercontent.com/72947514/231946758-2f151e35-5a16-44f4-903d-57a8c0cae76a.png)
+![image](https://user-images.githubusercontent.com/72947514/231947598-b4d4a513-0a60-467f-abc0-4c50b1383bfa.png)
 
 ![image](https://user-images.githubusercontent.com/72947514/231947380-f8c4c757-f550-45df-8adb-d3a787bf338d.png)
 
