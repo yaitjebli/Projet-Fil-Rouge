@@ -70,6 +70,7 @@ and enter with credentendials given in the docker-compose file (docker-compose-a
 
 ![image](https://user-images.githubusercontent.com/72947514/231946758-2f151e35-5a16-44f4-903d-57a8c0cae76a.png)
 
+![image](https://user-images.githubusercontent.com/72947514/231947380-f8c4c757-f550-45df-8adb-d3a787bf338d.png)
 
 
 
