@@ -63,8 +63,12 @@ Enter required information to create the database and connect to the database :
 
 
 Test connexion to pgadmin home page :
+
 ![image](https://user-images.githubusercontent.com/72947514/231946123-77b3a689-30dc-4256-a24f-9ceb4ca3cdee.png)
 
+and enter with credentendials given in the docker-compose file (docker-compose-all-stack.yml) :
+
+![image](https://user-images.githubusercontent.com/72947514/231946758-2f151e35-5a16-44f4-903d-57a8c0cae76a.png)
 
 
 
