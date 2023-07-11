@@ -30,7 +30,7 @@ http://<host ip address>:8084
 
 
 ----------------------------------------------------
-STEP 02 - Deploy application on a Kubernetes cluster
+STEP 02 - Application deployment with Docker-Compose
 ----------------------------------------------------
 
 ```bash
